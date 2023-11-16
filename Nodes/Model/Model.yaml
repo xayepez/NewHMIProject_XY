@@ -1,2 +1,7 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Temperature
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 0.0
